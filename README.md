@@ -6,7 +6,7 @@
 
 > Outil d'analyse de compatibilité CV/Offre d'emploi utilisant le traitement du langage naturel (NLP) pour optimiser vos candidatures et contourner les filtres ATS (Applicant Tracking Systems).
 
-![CV Analyzer Demo](examples/captures d'écran/demo.png)
+![CV Analyzer Demo](screenshot/demo.png)
 *Screenshot de l'analyse en action*
 
 ---
@@ -160,7 +160,7 @@ ipywidgets>=8.0.0
 # - Bouton "Analyser"
 ```
 
-![Interface Widget](examples/captures d'écran/interface.png)
+![Interface Widget](screenshot/interface.png)
 
 ### Méthode 2 : Mode Rapide (Copier-Coller)
 
@@ -304,7 +304,7 @@ Le système détecte **30+ compétences techniques** organisées en catégories 
    Score prévu     : 19.5%
    Amélioration    : +6%
 ```
-![Interface Widget](examples/captures d'écran/résultats.png)
+![Interface Widget](screenshot/resultat.png)
 
 ### Exemple de Template Lettre de Motivation
 
