@@ -1,0 +1,28 @@
+job_description = """
+Dans le cadre de son développement, notre client – un cabinet d'huissiers de justice reconnu – recherche un Employé administratif orienté IT fr/nl- Employé administratif avec un excellent sens pratique de l'informatique / Analyste IT h/f/x.Ce poste n'exige pas un diplôme ou une formation en IT, mais bien une grande aisance avec les outils digitaux, les logiciels métiers, et la manipulation de données.
+
+Vos responsabilités en tant qu'Employé administratif orienté IT fr/nl - Employé administratif avec un excellent sens pratique de l'informatique / Analyste IT h/f/x:
+
+Gérer l'administration quotidienne avec efficacité (courriers, saisie, classement, mise à jour de données,
+Utiliser, adapter et optimiser les outils internes (modification des index dans les systèmes, mise à jour des taux,
+Créer et structurer des rapports personnalisés à partir des systèmes internes
+Analyser des données (extraire des chiffres, les ventiler selon des critères définis,
+Collaborer avec les équipes pour comprendre leurs besoins informatiques et apporter des solutions concrètes via les outils disponibles
+S'assurer de la cohérence et de la qualité des données dans le système
+
+Profil recherché pour cette fonction d'Employé administratif orienté IT fr/nl - Employé administratif avec un excellent sens pratique de l'informatique / Analyste IT h/f/x:
+
+Bilingue FR/NL obligatoire
+Très bonne maîtrise des outils bureautiques classiques (Word, Excel, Outlook)
+Vous êtes un "touche-à-tout" numérique, à l'aise avec les systèmes informatiques, capable de naviguer dans des logiciels complexes sans formation poussée
+Autonome, rigoureux(se), structuré(e), curieux(se)
+Capacité à comprendre des logiques techniques (modifications de paramètres, traitements de données, tableaux croisés,
+Une première expérience dans une fonction administrative est un atout, mais ce poste peut aussi convenir à un(e) jeune diplômé(e) avec un esprit logique et une vraie facilité avec l'outil informatique
+
+Voici l'offre proposée pour cette focntion d'Employé administratif orienté IT nl/fr- Employé administratif avec un excellent sens pratique de l'informatique / Analyste IT h/f/x:
+
+Type de contrat : CDI à pourvoir après une période d'intérim.
+Salaire : 2400€ brut pendant la période d'intérim.
+Horaires : Temps plein, horaires classiques de bureau.
+Lieu : Bureau situé à Nivelles.
+""" 
