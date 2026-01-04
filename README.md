@@ -6,7 +6,7 @@
 
 > Outil d'analyse de compatibilité CV/Offre d'emploi utilisant le traitement du langage naturel (NLP) pour optimiser vos candidatures et contourner les filtres ATS (Applicant Tracking Systems).
 
-![CV Analyzer Demo](screenshots/demo.png)
+![CV Analyzer Demo](examples/captures d'écran/demo.png)
 *Screenshot de l'analyse en action*
 
 ---
@@ -128,7 +128,7 @@
 
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/cv-analyzer-pro.git
+git clone https://github.com/slw-z/cv-analyzer-pro.git
 cd cv-analyzer-pro
 
 # Installer les dépendances
@@ -160,7 +160,7 @@ ipywidgets>=8.0.0
 # - Bouton "Analyser"
 ```
 
-![Interface Widget](screenshots/interface.png)
+![Interface Widget](examples/captures d'écran/interface.png)
 
 ### Méthode 2 : Mode Rapide (Copier-Coller)
 
@@ -304,6 +304,7 @@ Le système détecte **30+ compétences techniques** organisées en catégories 
    Score prévu     : 19.5%
    Amélioration    : +6%
 ```
+![Interface Widget](examples/captures d'écran/résultats.png)
 
 ### Exemple de Template Lettre de Motivation
 
@@ -432,9 +433,9 @@ in the Software without restriction...
 
 ## 📊 Stats du Projet
 
-![GitHub stars](https://img.shields.io/github/stars/votre-username/cv-analyzer-pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/votre-username/cv-analyzer-pro?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/votre-username/cv-analyzer-pro?style=social)
+![GitHub stars](https://img.shields.io/github/stars/slw-z/cv-analyzer-pro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/slw-z/cv-analyzer-pro?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/slw-z/cv-analyzer-pro?style=social)
 
 ---
 
@@ -465,8 +466,8 @@ in the Software without restriction...
 Besoin d'aide ? Plusieurs options :
 
 - 📖 Consultez la [documentation complète](docs/)
-- 🐛 Ouvrez une [issue](https://github.com/votre-username/cv-analyzer-pro/issues)
-- 💬 Rejoignez la [discussion](https://github.com/votre-username/cv-analyzer-pro/discussions)
+- 🐛 Ouvrez une [issue](https://github.com/slw-z/cv-analyzer-pro/issues)
+- 💬 Rejoignez la [discussion](https://github.com/slw-z/cv-analyzer-pro/discussions)
 - 📧 Contactez directement : zaaraoui.salwa@live.fr
 
 ---
