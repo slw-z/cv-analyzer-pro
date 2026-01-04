@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Lancer sur Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/slw-z-cv-analyzer-pro-lkx66aan/lab)
+[![Lancer sur Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/slw-z/cv-analyzer-pro/main?filepath=CV_Analyser_Pro.ipynb)
 > Outil d'analyse de compatibilité CV/Offre d'emploi utilisant le traitement du langage naturel (NLP) pour optimiser vos candidatures et contourner les filtres ATS (Applicant Tracking Systems).
 
 ![CV Analyzer Demo](screenshot/demo.png)
